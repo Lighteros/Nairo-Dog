@@ -487,7 +487,7 @@
                                     whileTap: { scale: 0.95 },
                                     onClick: function () {
                                       return navigator.clipboard.writeText(
-                                        "0x00000000000000000000000000000000000000"
+                                        "0x97dbef3f2b760c1e9a41f1c3baf5e075df43ee61"
                                       );
                                     },
                                     className:
@@ -501,7 +501,7 @@
                                         className:
                                           "text-white font-mono text-sm break-all",
                                         children:
-                                          "0x00000000000000000000000000000000000000",
+                                          "0x97dbef3f2b760c1e9a41f1c3baf5e075df43ee61",
                                       }),
                                       (0, r.jsx)(g.Z, {
                                         className: "w-4 h-4 text-yellow-200",
