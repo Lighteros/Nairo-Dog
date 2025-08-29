@@ -386,7 +386,7 @@
                                           (0, r.jsx)(i.E.a, {
                                             whileHover: { scale: 1.15, y: -3 },
                                             whileTap: { scale: 0.9 },
-                                            href: "https://t.me/NairoETH",
+                                            href: "https://t.me/NairoDog_ETH",
                                             className:
                                               "w-12 h-12 sm:w-14 sm:h-14 bg-white/98 backdrop-blur-lg rounded-xl border border-white/70 transition-all duration-300 group hover:border-blue-400/90 hover:bg-orange-50/98 flex items-center justify-center",
                                             target: "_blank",
@@ -407,7 +407,7 @@
                                           (0, r.jsx)(i.E.a, {
                                             whileHover: { scale: 1.15, y: -3 },
                                             whileTap: { scale: 0.9 },
-                                            href: "https://x.com/NAIRO_ETH",
+                                            href: "https://x.com/NairoDog_ETH",
                                             className:
                                               "w-12 h-12 sm:w-14 sm:h-14 bg-white/98 backdrop-blur-lg rounded-xl border border-white/70 transition-all duration-300 group hover:border-gray-500/90 hover:bg-orange-50/98 flex items-center justify-center",
                                             target: "_blank",
@@ -487,7 +487,7 @@
                                     whileTap: { scale: 0.95 },
                                     onClick: function () {
                                       return navigator.clipboard.writeText(
-                                        "0x767620B46160e2A8F3cc8203405Da306e4337d1B"
+                                        "0x00000000000000000000000000000000000000"
                                       );
                                     },
                                     className:
@@ -501,7 +501,7 @@
                                         className:
                                           "text-white font-mono text-sm break-all",
                                         children:
-                                          "0x767620B46160e2A8F3cc8203405Da306e4337d1B",
+                                          "0x00000000000000000000000000000000000000",
                                       }),
                                       (0, r.jsx)(g.Z, {
                                         className: "w-4 h-4 text-yellow-200",
@@ -993,7 +993,7 @@
                                     y: -10,
                                   },
                                   whileTap: { scale: 0.95 },
-                                  href: "https://t.me/NairoETH",
+                                  href: "https://t.me/NairoDog_ETH",
                                   target: "_blank",
                                   rel: "noopener noreferrer",
                                   className:
@@ -1031,7 +1031,7 @@
                                     y: -10,
                                   },
                                   whileTap: { scale: 0.95 },
-                                  href: "https://x.com/NAIRO_ETH",
+                                  href: "https://x.com/NairoDog_ETH",
                                   target: "_blank",
                                   rel: "noopener noreferrer",
                                   className:
